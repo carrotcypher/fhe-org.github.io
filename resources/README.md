@@ -1,7 +1,7 @@
 <!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
-  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources"><b>Resources</b></a> | <a href="https://fhe-org.github.io/conferences/conference-2024/">Conference 2024</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
+  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources"><b>Resources</b></a> | <a href="https://fhe-org.github.io/meetups/">Meetups</a> | <a href="https://fhe-org.github.io/conferences/conference-2024/">Conference 2024</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
 </p>
 <!-- /Main header navigation -->
 
@@ -92,6 +92,7 @@
 - <a href="https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe" id="00057">Why we need revolutionary hardware for FHE</a> by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
+- <a href="https://fhe.org/meetups/054" id="00136">Greco: Fast Zero-Knowledge Proofs for Valid FHE RLWE Ciphertexts Formation</a> by **Enrico Bottazzi** on **Jun 27th, 2024**
 - <a href="https://fhe.org/meetups/053" id="00135">FHE: Past, Present and Future</a> by **Craig Gentry** on **Jun 13th, 2024**
 - <a href="https://fhe.org/meetups/052" id="00134">Functional bootstrapping for FV style cryptosystems</a> by **Seonhong Min** on **May 30th, 2024**
 - <a href="https://www.youtube.com/watch?v=ON23DV3d0U4" id="00133">Towards robust FHE for the real world</a> by **Christian Knabenhans and Alexander Viand** on **April 24th, 2024**

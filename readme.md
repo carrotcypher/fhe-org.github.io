@@ -1,7 +1,7 @@
 <!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
-  <a href="https://fhe-org.github.io"><b>Home</b></a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <a href="https://fhe-org.github.io/conferences/conference-2024/">Conference 2024</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
+  <a href="https://fhe-org.github.io"><b>Home</b></a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <a href="https://fhe-org.github.io/meetups/">Meetups</a> | <a href="https://fhe-org.github.io/conferences/conference-2024/">Conference 2024</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
 </p>
 <hr/>
 <!-- /Main header navigation -->
@@ -18,7 +18,7 @@ If you want to learn more about FHE, make sure to:
 
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
-- Register for the next meetup, **[Greco: Fast Zero-Knowledge Proofs for Valid FHE RLWE Ciphertexts Formation](https://fhe.org/meetups/054)** by **Enrico Bottazzi** on **Jun 27th, 2024 at 5PM CEST**
+- Register for the next meetup, **[FHE Beyond IND-CCA1 Security](https://fhe.org/meetups/055)** by **Jérôme Nguyen** on **Jul 11th, 2024 at 5PM CEST**
 - [Meet the community](https://www.youtube.com/watch?v=2qb1KdPxlPU&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4) through recorded interviews
 - [Browse resources](https://fhe.org/meetups) from all past meetups
 - [Submit your own idea](https://fhe.org/submit) for a meetup

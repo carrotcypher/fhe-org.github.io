@@ -1,7 +1,7 @@
 <!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
-  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <a href="https://fhe-org.github.io/conferences/conference-2024/">Conference 2024</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
+  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <a href="https://fhe-org.github.io/meetups/">Meetups</a> | <a href="https://fhe-org.github.io/conferences/conference-2024/">Conference 2024</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
 </p>
 <hr/>
 <!-- /Main header navigation -->
@@ -18,9 +18,9 @@
 
 ## Coming up
 
-<a href="https://fhe.org/meetups/054"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/3265bf84-ff0f-4762-b840-3d3fc2823f4f"></a>
+<a href="https://fhe.org/meetups/055"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5c5a7f05-3269-4b19-8255-a0e690849b06"></a>
 
-#### Register for the next meetup, **[Greco: Fast Zero-Knowledge Proofs for Valid FHE RLWE Ciphertexts Formation](https://fhe.org/meetups/054)** by **Enrico Bottazzi** on **Jun 27th, 2024 at 5PM CEST**
+#### Register for the next meetup, **[FHE Beyond IND-CCA1 Security](https://fhe.org/meetups/055)** by **Jérôme Nguyen** on **Jul 11th, 2024 at 5PM CEST**
 
 <br>
 
@@ -34,6 +34,7 @@ As a part of the meetups, we interview presenters (and other community members) 
 FHE.org meetups archive, latest first.
 
 ### 2024
+- [Greco: Fast Zero-Knowledge Proofs for Valid FHE RLWE Ciphertexts Formation](https://fhe.org/meetups/054) by **Enrico Bottazzi** on **Jun 27th, 2024**
 - [FHE: Past, Present and Future](https://fhe.org/meetups/053) by **Craig Gentry** on **Jun 13th, 2024**
 - [Functional bootstrapping for FV style cryptosystems](https://fhe.org/meetups/052) by **Seonhong Min** on **May 30th, 2024**
 - [Fregata: Faster Homomorphic Evaluation of AES via TFHE](https://fhe.org/meetups/051) by **Benqiang Wei** on **May 9th, 2024**

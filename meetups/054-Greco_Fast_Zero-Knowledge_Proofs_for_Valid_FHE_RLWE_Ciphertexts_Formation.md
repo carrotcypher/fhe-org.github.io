@@ -1,7 +1,7 @@
 <!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
-  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <a href="https://fhe-org.github.io/conferences/conference-2024/">Conference 2024</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
+  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <a href="https://fhe-org.github.io/meetups/">Meetups</a> | <a href="https://fhe-org.github.io/conferences/conference-2024/">Conference 2024</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
 </p>
 <hr/>
 <!-- /Main header navigation -->
@@ -9,7 +9,7 @@
 
 # Greco: Fast Zero-Knowledge Proofs for Valid FHE RLWE Ciphertexts Formation
 #### by Enrico Bottazzi - 2024.06.27
-#### <a href="https://www.meetup.com/fhe-org/events/301465187/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">Register to attend</a> | <!-- Video recording (Youtube) | --> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=UeV1zhbdVPI&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://github.com/user-attachments/files/16033480/Greco_FHE_org.pdf">Slides</a> (github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 
 
